@@ -1,6 +1,6 @@
 # Tribute-Page
 
-[**Demo-online**](https://krasnovdanial.github.io/martaUP/)
+[**Demo-online**](https://krasnovdanial.github.io/Tribute-Page/)
 
 ### Testing local
 
